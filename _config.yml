@@ -17,7 +17,7 @@ title: unphased.ai
 email: zachbela@alumni.stanford.edu
 description: >- # this means to ignore newlines until "baseurl:"
     Solving hard optimization problems with asynchronous oscillators on FPGAs.
-baseurl: "/unphased.github.io/" # the subpath of your site, e.g. /blog
+#baseurl: "/unphased.github.io/" # the subpath of your site, e.g. /blog
 url: "https://zbelateche.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: blip_tm
 github_username:  zbelateche
