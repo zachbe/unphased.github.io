@@ -17,17 +17,19 @@ title: unphased.ai
 email: zachbela@alumni.stanford.edu
 description: >- # this means to ignore newlines until "baseurl:"
     Solving hard optimization problems with asynchronous oscillators on FPGAs.
-#baseurl: "/unphased.github.io" # the subpath of your site, e.g. /blog
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/unphased.github.io" # the subpath of your site, e.g. /blog
+#baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://zbelateche.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: blip_tm
 github_username:  zbelateche
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
