@@ -50,7 +50,10 @@ buttons:
       tar_url: http://example.com/
       tar_title: Sign up for the waitlist!
       tar_hide: false
-
+      discord_url: https://discord.gg/e6cbRuMb7p
+      discord_title: Join the Discord!
+      discord_hide: false
+      
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
