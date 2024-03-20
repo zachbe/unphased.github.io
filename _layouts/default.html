@@ -37,6 +37,9 @@
         {% unless site.buttons.zip_hide %}
           <a href="{{ site.buttons.zip_url | default: site.github.zip_url }}" class="btn">{{ site.buttons.zip_title | default: "Download .zip" }}</a>
         {% endunless %}
+        {% unless site.buttons.discord_hide %}
+          <a href="{{ site.buttons.discord_url | default: site.github.zip_url }}" class="btn">{{ site.buttons.discord_title | default: "Download .zip" }}</a>
+        {% endunless %}
         {% unless site.buttons.tar_hide %}
           <a href="{{ site.buttons.tar_url | default: site.github.tar_url }}" class="btn">{{ site.buttons.tar_title | default: "Download .tar.gz" }}</a>
         {% endunless %}
