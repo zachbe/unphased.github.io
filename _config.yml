@@ -34,6 +34,14 @@ plugins:
 github:
   is_project_page: false
 
+buttons:
+      zip_url: http://example.com/
+      zip_title: Title
+      zip_hide: false
+      tar_url: http://example.com/
+      tar_title: Title
+      tar_hide: false
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
