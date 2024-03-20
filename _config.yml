@@ -40,8 +40,8 @@ show_downloads: true
 
 color:
   header: "#000"
-  gradient_left: "#e53935"
-  gradient_right: "#f57c00"
+  gradient_left: "#22199c"
+  gradient_right: "#750064"
 
 buttons:
       zip_url: https://github.com/zbelateche/digial-ising
