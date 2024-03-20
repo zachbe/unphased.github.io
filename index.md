@@ -1,4 +1,4 @@
-unphased.ai is an umbrella project for coupled-oscillator-based combinatorial optimization solvers.
+unphased.ai is an umbrella project for coupled-oscillator-based optimization solvers.
 
 Our core project is [DIMPLE: Digital Ising Machines from Programable Logic, Easily](https://github.com/zbelateche/digial-ising)! It's the first asynchronous oscillator-based solver that can be deployed on FPGAs. With all-to-all coupling and a state-of-the-art number of spins, DIMPLE is a great platform for prototyping new applications that leverage oscillator-based solvers.
 
