@@ -38,12 +38,17 @@ github:
   
 show_downloads: true
 
+color:
+  header: "#000"
+  gradient_left: "#e53935"
+  gradient_right: "#f57c00"
+
 buttons:
-      zip_url: http://example.com/
-      zip_title: Title
+      zip_url: https://github.com/zbelateche/digial-ising
+      zip_title: Check out the repo!
       zip_hide: false
       tar_url: http://example.com/
-      tar_title: Title
+      tar_title: Sign up for the waitlist!
       tar_hide: false
 
 # Exclude from processing.
