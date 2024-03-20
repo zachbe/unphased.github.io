@@ -4,7 +4,7 @@ Our core project is [DIMPLE: Digital Ising Machines from Programable Logic, Easi
 
 We also develop [a fork of the Simulated Bifurcation package](https://github.com/zbelateche/simulated-bifurcation-ising/tree/main), enabling users to program DIMPLE using PyTorch. By making DIMPLE easy to use, this package lets users without hardware expertise build new algorithms powered by oscillator-based solvers.
 
-We have a [Discord community](https://discord.gg/e6cbRuMb7p) as well -- if you're interested in this technology, you should join the conversation! As new projects spring up that leverage DIMPLE for different applications, they'll be listed here. 
+We have a [Discord community](https://discord.gg/bkjgP5CY4G) as well -- if you're interested in this technology, you should join the conversation! As new projects spring up that leverage DIMPLE for different applications, they'll be listed here. 
 
 I’m also looking into wasy to help anybody easily run workloads on these systems for a low price! That may take the form of a cloud service, or potentially a devkit. If you're interested, sign up for the waitlist above!
 
