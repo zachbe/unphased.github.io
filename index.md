@@ -6,6 +6,6 @@ We also develop [a fork of the Simulated Bifurcation package](https://github.com
 
 We have a [Discord community](https://discord.gg/bkjgP5CY4G) as well -- if you're interested in this technology, you should join the conversation! As new projects spring up that leverage DIMPLE for different applications, they'll be listed here. 
 
-I’m also looking into ways to help anybody easily run workloads on these systems for a low price! That may take the form of a cloud service, or potentially a devkit. If you're interested, join the Discord to proivide provide some feedback and help us make that a reality!
+I’m also looking into ways to help anybody easily run workloads on these systems for a low price! That may take the form of a cloud service, or potentially a devkit. If you're interested, join the Discord to provide some feedback and help us make that a reality!
 
 I also personally blog about DIMPLE, among other things, at [zach.be](https://www.zach.be)!
